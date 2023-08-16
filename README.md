@@ -1,5 +1,8 @@
 Welcome to RandomGen, the all-in-one mobile application that brings excitement, fun, and convenience to your fingertips! Whether you need to generate random numbers, make crucial decisions with a coin toss, test your luck with lottery guessing, or roll dice for your favorite tabletop adventures, RandomGen has got you covered!
 
+https://play.google.com/store/apps/details?id=com.bindortyuzyirmibir.random
+
+![Main Listing](FG.png)
 Key Features:
 
 1. Random Number Generator
